@@ -1,0 +1,48 @@
+.header{ background-color: aqua;
+	min-height: 80px;
+}
+.container{ overflow: hidden; }
+
+
+.blog{  float: left;
+        min-height: 100px;
+        width: 60%;
+        background-color: green;
+ }
+ .contact{  float: right;
+            min-height: 100px; 
+ 	       background-color: yellow;
+ 	       width: 40%;
+ }
+ .footer{ background-color: black;
+         min-height: 80px; }
+
+
+
+ .container2{overflow: hidden; }
+
+
+
+
+.blog2{ float:left;
+ min-height: 100px;
+  width: 33.33%
+ background-color: lime;}
+
+ .contact2{float: left;
+  min-height: 100px;
+  width: 33.33%;
+ 	background-color: lime;}
+
+ 	.about{ float: left;
+ 		    min-height: 100px;
+
+            width:33,33%; 
+            background-color:blue;
+
+ 	 }
+
+.footer2{ 
+
+background-color: black;
+min-height: 80px; }
